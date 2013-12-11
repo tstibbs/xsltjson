@@ -419,7 +419,7 @@
         </xsl:choose>
       </xsl:when>
       <xsl:otherwise>
-        <xsl:text/>null<xsl:text/>
+        <xsl:text/>{}<xsl:text/>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
